@@ -1,5 +1,3 @@
-https://docs.python.org/release/1.4/ref/ref7.html#REF13811
-
 Забегая вперед под капотом конструкции with и contextmanager обычный try ... except.
 
 Конструкция try ... except появилась в Python очень давно. Я еще не программировал, а конструкция уже была. Она 
@@ -71,6 +69,7 @@ public static void main(String[] args) throws IOException {
 ```
 
 На сайте https://docs.python.org самую старую документацию которую удалось найти это 1.4 от 25 октября 1996 года.
+https://docs.python.org/release/1.4/ref/ref7.html#REF13811
 Дока говорит что существует две формы выражения try: 1 try...except [else] и 2 try...finally. Эти формы нельзя 
 смешивать, но они могут быть вложены друг в друга. Первый вариант это обработчик исключений, а второй нужен для 
 гарантированного выполнения раздела finally.

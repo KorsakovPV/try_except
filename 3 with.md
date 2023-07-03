@@ -1,6 +1,3 @@
-https://pycoder.ru/python-with-statement/
-https://effbot.org/zone/python-with-statement.htm
-
 В Python 2.5 впервые появился новый оператор связанный с исключениями with. Он задумывался как альтернатива try ... finally
 
 Если посмотреть что докуменация пишет про него то все магия улетучивается в один момент.
